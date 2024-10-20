@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "GestionTransacciones.Controllers.TransaccionController",
+    "Method": "Depositar",
+    "RelativePath": "api/Transaccion/deposito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GestionTransacciones.Models.DepositoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionTransacciones.Controllers.TransaccionController",
+    "Method": "Retirar",
+    "RelativePath": "api/Transaccion/retiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GestionTransacciones.Models.RetiroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionTransacciones.Controllers.TransaccionController",
+    "Method": "ObtenerSaldo",
+    "RelativePath": "api/Transaccion/saldo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVVMApp
+build_property.RootNamespace = MVVMApp
+build_property.ProjectDir = C:\Users\egar2\Escritorio\Arquitecttura\MVVMApp\MVVMApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\egar2\Escritorio\Arquitecttura\MVVMApp\MVVMApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6xkng9l8y4
+
+[C:/Users/egar2/Escritorio/Arquitecttura/MVVMApp/MVVMApp/Views/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9gyszik6tn

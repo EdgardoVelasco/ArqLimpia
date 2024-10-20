@@ -1,0 +1,70 @@
+﻿@using MVCApp.Models.Entities
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<nav class="navbar bg-primary">
+    <div class="container-fluid">
+        <a class="navbar-brand" style="color:azure;">Cenace</a>
+    </div>
+</nav>
+
+<br />
+
+<!--Sección formulario-->
+<div class="container-fluid">
+    <form action="/Home/Save" method="post">
+        <label>name</label>
+        <input name="Name" />
+
+        <label>description</label>
+        <input  name="Description" />
+        
+        <label>price</label>
+        <input name="Price" type="number"/>
+
+        <button type="submit">Salvar</button>
+    </form>
+    
+</div>
+<!-- Fin Sección formulario-->
+
+<!--Tabla productos-->
+<div class="container-fluid">
+    <table class="table table-striped-columns">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>DESCRIPTION</th>
+                <th>PRICE</th>
+                <th>DELETE</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var product in (List<Product>)ViewData["Products"])
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.price</td>
+                    <td>
+                        <form action="/Home/Delete" method="get">
+                            <input type="hidden" name="id" value="@product.Id"/>
+                            <button type="submit" action="/Home/Delete">eliminar</button>
+                        </form>
+                        
+                    </td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+</div>
+<!--Fin tabla productos-->

@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "RestfulReservas.Presentation.Controller.ReservationController",
+    "Method": "CreateReservation",
+    "RelativePath": "api/Reservation/reservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RestfulReservas.Data.DTOs.ReservationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulReservas.Presentation.Controller.ReservationController",
+    "Method": "GetReservations",
+    "RelativePath": "api/Reservation/reservation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulReservas.Presentation.Controller.ReservationController",
+    "Method": "GetAvailableRooms",
+    "RelativePath": "api/Reservation/rooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestfulReservas.Presentation.Controller.ReservationController",
+    "Method": "GetUser",
+    "RelativePath": "api/Reservation/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

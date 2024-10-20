@@ -1,0 +1,7 @@
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.csproj.AssemblyReference.cache
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.AssemblyInfoInputs.cache
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.AssemblyInfo.cs
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.csproj.CoreCompileInputs.cache
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/ATANOR/Dropbox/REPOSITORIO/NETEC/ARQ_LIMPIA_NET/ARQUITECTURA_SOFTWARE/02.-HERRAMIENTAS/04.-TESTING/UserManagement/obj/Debug/net7.0/UserManagement.MvcApplicationPartsAssemblyInfo.cache

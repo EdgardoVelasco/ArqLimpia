@@ -1,0 +1,6 @@
+@RestfulReservas_HostAddress = http://localhost:5138
+
+GET {{RestfulReservas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

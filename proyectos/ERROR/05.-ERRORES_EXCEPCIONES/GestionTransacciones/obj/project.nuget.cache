@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9fVVsChGdU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egar2\\Escritorio\\ARQUITECTURA_SOFTWARE\\02.-HERRAMIENTAS\\05.-ERRORES_EXCEPCIONES\\GestionTransacciones\\GestionTransacciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egar2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\egar2\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

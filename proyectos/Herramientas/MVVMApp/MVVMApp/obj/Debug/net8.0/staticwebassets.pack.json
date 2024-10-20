@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\MVVMApp\\MVVMApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVVMApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVVMApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\MVVMApp\\MVVMApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\MVVMApp\\MVVMApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\MVVMApp\\MVVMApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\MVVMApp\\MVVMApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVVMApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVVMApp.props",
+      "PackagePath": "build\\MVVMApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVVMApp.props",
+      "PackagePath": "buildMultiTargeting\\MVVMApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVVMApp.props",
+      "PackagePath": "buildTransitive\\MVVMApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kGC+PzdNBQf19+yg6mDITyiRscMucqD9uzWfMRC8rGE=",
+  "Source": "GestionTransacciones",
+  "BasePath": "_content/GestionTransacciones",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

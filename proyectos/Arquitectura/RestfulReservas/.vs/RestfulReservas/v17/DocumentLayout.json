@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\presentation\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\presentation\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\data\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\data\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\data\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\data\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\data\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\data\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\business\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\business\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\business\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\business\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\business\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\business\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\business\\entitites\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\business\\entitites\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\business\\entitites\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\business\\entitites\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\restfulreservas\\restfulreservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E745F-15C7-4338-A293-F4A990EC8547}|RestfulReservas\\RestfulReservas.csproj|solutionrelative:restfulreservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Presentation\\Controller\\ReservationController.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Presentation\\Controller\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Presentation\\Controller\\ReservationController.cs",
+              "RelativeToolTip": "RestfulReservas\\Presentation\\Controller\\ReservationController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:36:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Business\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Services\\IReservationService.cs",
+              "RelativeToolTip": "RestfulReservas\\Business\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:25:11.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\User.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Business\\Entitites\\User.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\User.cs",
+              "RelativeToolTip": "RestfulReservas\\Business\\Entitites\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:21:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\Room.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Business\\Entitites\\Room.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\Room.cs",
+              "RelativeToolTip": "RestfulReservas\\Business\\Entitites\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:21:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\Reservation.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Business\\Entitites\\Reservation.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Entitites\\Reservation.cs",
+              "RelativeToolTip": "RestfulReservas\\Business\\Entitites\\Reservation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:19:16.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Business\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Business\\Services\\ReservationService.cs",
+              "RelativeToolTip": "RestfulReservas\\Business\\Services\\ReservationService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:11:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\DTOs\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Data\\DTOs\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\DTOs\\ReservationDTO.cs",
+              "RelativeToolTip": "RestfulReservas\\Data\\DTOs\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:11:04.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RestfulReservas\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:10:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Data\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "RestfulReservas\\Data\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:10:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Data\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "RestfulReservas\\Data\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:10:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySQLDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\MySQLDBContext.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Data\\MySQLDBContext.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Data\\MySQLDBContext.cs",
+              "RelativeToolTip": "RestfulReservas\\Data\\MySQLDBContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:55:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Program.cs",
+              "RelativeDocumentMoniker": "RestfulReservas\\Program.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\RestfulReservas\\RestfulReservas\\Program.cs",
+              "RelativeToolTip": "RestfulReservas\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:07:42.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

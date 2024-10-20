@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Aquí especificamos el punto de entrada -->
+    <StartupObject>UserManagement.Program</StartupObject> <!-- Asegúrate de que el espacio de nombres sea correcto -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Paquetes necesarios para la aplicación web -->
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
+    <!-- Paquetes necesarios para pruebas unitarias -->
+    <PackageReference Include="xunit" Version="2.4.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.1" />
+  </ItemGroup>
+
+</Project>
