@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Micro_Producto.Controllers.DogController",
+    "Method": "Insert",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dog",
+        "Type": "Micro_Producto.Model.Entities.Dog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Micro_Producto.Controllers.DogController",
+    "Method": "GetDogs",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Micro_Producto.Controllers.DogController",
+    "Method": "Delete",
+    "RelativePath": "api/Dog",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Micro_Producto.Controllers.DogController",
+    "Method": "GetById",
+    "RelativePath": "api/Dog/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\model\\services\\dogserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\model\\services\\dogserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\model\\services\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\model\\services\\idogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\model\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\model\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\model\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\model\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\model\\datasource\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\model\\datasource\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|c:\\users\\egar2\\escritorio\\arquitecttura\\micro-producto\\micro-producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8D446E-2A9B-41B1-95AD-823A1FC5B6A5}|Micro-Producto\\Micro-Producto.csproj|solutionrelative:micro-producto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Micro-Producto\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Micro-Producto\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T23:28:40.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Dockerfile",
+              "RelativeDocumentMoniker": "Micro-Producto\\Dockerfile",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Dockerfile",
+              "RelativeToolTip": "Micro-Producto\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T23:20:30.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Services\\DogServiceImpl.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Model\\Services\\DogServiceImpl.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Services\\DogServiceImpl.cs",
+              "RelativeToolTip": "Micro-Producto\\Model\\Services\\DogServiceImpl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:16:42.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDogService.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Services\\IDogService.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Model\\Services\\IDogService.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Services\\IDogService.cs",
+              "RelativeToolTip": "Micro-Producto\\Model\\Services\\IDogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:16:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Repositories\\DogRepository.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Model\\Repositories\\DogRepository.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Repositories\\DogRepository.cs",
+              "RelativeToolTip": "Micro-Producto\\Model\\Repositories\\DogRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:15:13.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Entities\\Dog.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Model\\Entities\\Dog.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\Entities\\Dog.cs",
+              "RelativeToolTip": "Micro-Producto\\Model\\Entities\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:13:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\DataSource\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Model\\DataSource\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Model\\DataSource\\AppDBContext.cs",
+              "RelativeToolTip": "Micro-Producto\\Model\\DataSource\\AppDBContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:12:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Controllers\\DogController.cs",
+              "RelativeToolTip": "Micro-Producto\\Controllers\\DogController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAABEwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:10:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\appsettings.json",
+              "RelativeDocumentMoniker": "Micro-Producto\\appsettings.json",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\appsettings.json",
+              "RelativeToolTip": "Micro-Producto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T23:09:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Program.cs",
+              "RelativeDocumentMoniker": "Micro-Producto\\Program.cs",
+              "ToolTip": "C:\\Users\\egar2\\Escritorio\\Arquitecttura\\Micro-Producto\\Micro-Producto\\Program.cs",
+              "RelativeToolTip": "Micro-Producto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T23:08:01.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
