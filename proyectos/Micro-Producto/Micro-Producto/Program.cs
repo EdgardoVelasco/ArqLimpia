@@ -26,6 +26,17 @@ builder.Services.AddDbContext<AppDBContext>(
           }
     );
 
+/*Allow Origins*/
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: "AllowAllOrigins",
+        configurePolicy: policy =>
+        {
+            policy.AllowAnyOrigin()
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+}); 
 
 /*Injection Services*/
 builder.Services.AddScoped<DogRepository>();
@@ -44,6 +55,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
+
+/*activar globalmente*/
+app.UseCors("AllowAllOrigins");
 
 app.MapControllers();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Micro-Producto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e248fc3c8ab4f3e98f6389071634e1605bf6421b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Micro-Producto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Micro-Producto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,11 @@
 ﻿using Micro_Producto.Model.Entities;
 using Micro_Producto.Model.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Micro_Producto.Controllers
 {
+    [EnableCors("AllowAllOrigins")]
     [Route("api/[controller]")]
     [ApiController]
     public class DogController : ControllerBase
